@@ -1,0 +1,30 @@
+
+{
+  "name": "vk",
+  "author": "gilyaev",
+  "version": "0.1.2",
+  "description": "VK tools",
+  "homepage": "https://github.com/gilyaev",
+  "license": "MIT",
+  "keywords": [
+    "vk",
+    "api",
+    "tools"
+  ],
+  "bugs": {
+  },
+  "engines": {
+    "node": ">=0.10.25",
+    "npm": ">=1.3.10"
+  },
+  "dependencies": {
+      "bluebird": "^3.x",
+      "vksdk": "^5.3.x",
+      "diff-arrays": "1.0.0",
+      "split": "^1.x",
+      "array-intersection": "0.1.2",
+      "through2": "^1.x",
+      "progress": "^1.x",
+      "yargs": "^4.x"
+  }
+}

@@ -1,0 +1,6 @@
+./command.js ganalitycs -g 81740375
+
+./command.js msub -g 81740375 -t
+./command.js msub -g 81740375
+
+./command.js gmfilter 34040339 -c=377
