@@ -25,6 +25,7 @@
       "array-intersection": "0.1.2",
       "through2": "^1.x",
       "progress": "^1.x",
-      "yargs": "^4.x"
+      "yargs": "^4.x",
+      "underscore":  "^1.x"
   }
 }
